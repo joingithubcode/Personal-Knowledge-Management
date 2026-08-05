@@ -1,0 +1,83 @@
+# Validation rules for this Personal Knowledge Management repository.
+# Machine-readable companion to AGENTS.md. Scope: all Markdown files
+# except this file. Every rule is binding unless explicitly overridden.
+
+version: 1.0.0
+
+frontmatter:
+  delimiters: "---"
+  required_keys:
+    - title
+    - status
+    - created
+    - tags
+  title:
+    pattern: "^[a-z0-9].*$"
+    hint: readable title matching the note filename
+  status:
+    allowed:
+      - draft
+      - active
+      - complete
+      - archived
+    default: draft
+  created:
+    format: YYYY-MM-DD
+    required: true
+  updated:
+    format: YYYY-MM-DD
+    required: false
+  tags:
+    type: list
+    required: true
+  additional_keys:
+    - related
+    - source
+
+naming:
+  note_files:
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*\\.md$"
+    max_length: 60
+    hint: lowercase, hyphenated, no spaces or uppercase
+  folders:
+    pattern: "^[a-z]+$"
+  forbidden_characters: [" ", "_", "~", "#", "(", ")"]
+
+line_limits:
+  repository_agents: 140
+  folder_agents: 100
+  folder_readme: 100
+  root_files: 100
+  notes: 100
+
+navigation:
+  required_folders:
+    - knowledge
+    - research
+    - projects
+    - ideas
+  folder_required_files:
+    - README.md
+    - AGENTS.md
+  root_required_files:
+    - README.md
+    - SUMMARY.md
+    - INDEX.md
+    - CHANGELOG.md
+    - GLOSSARY.md
+    - AGENTS.md
+    - validation.yaml
+
+links:
+  format: "[[note-name]]"
+  internal_only: true
+  target_must_exist: true
+  no_external: true
+
+content:
+  allowed_files_only:
+    - "*.md"
+    - validation.yaml
+  no_placeholders: true
+  no_generated_notes: true
+  self_contained: true
