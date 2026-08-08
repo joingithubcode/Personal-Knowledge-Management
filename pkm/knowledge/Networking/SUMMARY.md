@@ -4,7 +4,7 @@ Map of the Networking category in the knowledge section.
 
 ## Current note count
 
-0 notes.
+5 notes.
 
 ## Category map
 

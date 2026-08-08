@@ -50,4 +50,4 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- ai-voice-platform-overview — the AI Voice SaaS platform at a glance

@@ -50,4 +50,4 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- ai-voice-saas-market-positioning — the AI Voice Platform's market positioning

@@ -50,4 +50,13 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- acid-properties — database transaction guarantees
+- codds-12-rules — the twelve relational tests
+- database-transactions — units of work that commit or roll back
+- entity-relationship-modeling — diagram-based database design
+- indexing-basics — fast lookup structures
+- normalization-1nf-2nf-3nf — removing redundancy in tables
+- nosql-vs-sql — comparing data models
+- primary-key-vs-foreign-key — row identity and references
+- query-optimization-basics — making queries fast
+- sql-joins-types — combining tables by keys

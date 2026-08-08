@@ -4,7 +4,7 @@ Map of the Startups category in the ideas section.
 
 ## Current note count
 
-0 notes.
+1 note.
 
 ## Category map
 
@@ -13,6 +13,10 @@ Map of the Startups category in the ideas section.
 - INDEX.md — note registry and organization plan.
 - SUMMARY.md — this map.
 - Notes — one atomic note per topic, added over time.
+
+## Notes
+
+- ai-voice-saas-market-positioning — the AI Voice Platform's market positioning
 
 ## Future sections
 

@@ -50,4 +50,10 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- bias-variance-tradeoff — the complexity balance in models
+- feature-engineering-basics — shaping inputs for models
+- gradient-descent-basics — the training optimizer
+- model-evaluation-metrics — measuring performance honestly
+- overfitting-vs-underfitting — two training failure modes
+- supervised-vs-unsupervised-learning — labeled vs unlabeled learning
+- training-validation-test-split — honest evaluation discipline

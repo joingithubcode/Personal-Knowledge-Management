@@ -13,7 +13,7 @@ lessons, and conclusions that remain useful afterward.
 - Maintain atomic notes per completed project topic.
 - Record outcomes and lessons accurately.
 - Extract general lessons into the knowledge folder.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Route finished projects here from Active.
 
 ## Boundaries

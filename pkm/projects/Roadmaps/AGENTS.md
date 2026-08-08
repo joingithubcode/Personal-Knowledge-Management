@@ -13,7 +13,7 @@ phases, and the reasoning behind future work.
 - Maintain atomic notes per roadmap topic.
 - Record goals, phases, and sequencing clearly.
 - Preserve the reasoning behind each direction.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link roadmaps to planning and decision notes.
 
 ## Boundaries

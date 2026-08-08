@@ -13,7 +13,7 @@ concepts intact until they are pursued or dropped.
 - Maintain one atomic note per learning idea.
 - Record the goal and why it matters briefly.
 - Keep notes honest about their undeveloped state.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Route pursued ideas to research or knowledge.
 
 ## Boundaries

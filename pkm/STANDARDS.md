@@ -13,7 +13,9 @@ Scope: notes in knowledge/, research/, projects/, ideas/; navigation files (READ
 - Required sections in order: front matter; `# Note Title` (matches filename); `## Purpose`; `## Context`; `## Main Notes`; `## References`; `## Related Notes`; `## Tags`; `## Review History`.
 - Keep every note under 100 lines; use templates/ as the starting shape.
 - SUMMARY.md is the repository map, listing every folder and standards file.
-- INDEX.md lists every note; register every new note there.
+- INDEX.md is the index of indexes; register every new note in its
+  category's own INDEX.md and SUMMARY.md, and keep the category's note
+  count current in the root INDEX.md.
 - This standard governs structure only; content quality is governed by section 2.
 - Any conflict between standards: the specific standard wins.
 

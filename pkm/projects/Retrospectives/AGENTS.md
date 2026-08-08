@@ -13,7 +13,7 @@ carry forward into future work.
 - Maintain one atomic note per retrospective.
 - Record what worked, what did not, and why.
 - Draw actionable lessons from the review.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link retrospectives to completed projects.
 
 ## Boundaries

@@ -50,4 +50,9 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- elevenlabs-voiceid-caching-sidecar — caching voice IDs to cut API calls
+- openvoice-v2-cloning-emotion-engine — the cloning and emotion engine
+- piper-subprocess-isolation-licensing — isolating Piper to avoid GPL
+- platform-critical-review-findings — gaps found in the initial plan
+- xtts-v2-audio-quality-fixes — fixing XTTS-v2 audio output
+- xtts-v2-commercial-license-restriction — the XTTS-v2 license limit

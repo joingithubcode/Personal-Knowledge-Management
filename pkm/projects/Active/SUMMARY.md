@@ -4,7 +4,7 @@ Map of the Active category in the projects section.
 
 ## Current note count
 
-0 notes.
+1 note.
 
 ## Category map
 

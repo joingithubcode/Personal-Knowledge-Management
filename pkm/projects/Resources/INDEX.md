@@ -50,4 +50,4 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- ai-voice-platform-tech-stack — the full platform technology stack

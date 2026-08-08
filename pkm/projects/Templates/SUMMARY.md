@@ -4,7 +4,7 @@ Map of the Templates category in the projects section.
 
 ## Current note count
 
-0 notes.
+4 notes.
 
 ## Category map
 
@@ -13,6 +13,13 @@ Map of the Templates category in the projects section.
 - INDEX.md — note registry and organization plan.
 - SUMMARY.md — this map.
 - Notes — one atomic note per topic, added over time.
+
+## Notes
+
+- decision-log-template — reusable shape for project decision logs
+- meeting-notes-template — reusable shape for project meeting notes
+- retrospective-template — reusable shape for project retrospectives
+- roadmap-entry-template — reusable shape for roadmap entries
 
 ## Future sections
 

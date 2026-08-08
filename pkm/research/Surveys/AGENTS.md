@@ -13,7 +13,7 @@ orient future reading.
 - Maintain one atomic note per surveyed topic.
 - Map the field's work, themes, and groups accurately.
 - Distinguish the map from deep critical analysis.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link surveys to the notes they point to.
 
 ## Boundaries

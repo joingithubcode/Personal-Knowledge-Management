@@ -1,0 +1,15 @@
+#!/bin/sh
+# PKM validation gate: runs pkm/scripts/validate.py before every commit.
+# Blocks the commit if any validation violations are found.
+
+repo_root=$(git rev-parse --show-toplevel) || exit 1
+
+python3 "$repo_root/pkm/scripts/validate.py"
+status=$?
+
+if [ "$status" -ne 0 ]; then
+    echo "PKM validation failed (exit $status). Fix the violations above, then commit again."
+    exit 1
+fi
+
+exit 0

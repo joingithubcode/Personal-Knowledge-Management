@@ -4,7 +4,7 @@ Map of the Security category in the knowledge section.
 
 ## Current note count
 
-0 notes.
+7 notes.
 
 ## Category map
 

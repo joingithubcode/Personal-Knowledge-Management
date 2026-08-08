@@ -4,7 +4,7 @@ Map of the Decisions category in the projects section.
 
 ## Current note count
 
-0 notes.
+6 notes.
 
 ## Category map
 

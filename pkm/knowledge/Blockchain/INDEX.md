@@ -50,4 +50,5 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- blockchain-basics — shared tamper-evident records
+- consensus-mechanisms-basics — agreeing on one history

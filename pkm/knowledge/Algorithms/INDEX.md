@@ -50,4 +50,8 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- big-o-notation — how algorithms scale
+- dynamic-programming-basics — reusing subproblem answers
+- recursion-basics — functions that call themselves
+- searching-algorithms-overview — finding items efficiently
+- sorting-algorithms-overview — ordering collections

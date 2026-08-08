@@ -40,7 +40,8 @@ Before creating, editing, moving, deleting, or linking notes, an AI agent MUST:
 
 - Follow WORKFLOW.md section 2 for every change.
 - Update front matter per STANDARDS.md section 3.
-- Update INDEX.md and SUMMARY.md when adding notes.
+- Update the category INDEX.md and SUMMARY.md when adding notes; update
+  the root INDEX.md per-category count.
 - Never create a note outside the approved structure.
 
 ## Editing constraints

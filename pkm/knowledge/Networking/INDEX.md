@@ -50,4 +50,8 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- dns-basics — names to addresses
+- http-vs-https — encrypted web traffic
+- osi-model-basics — the seven-layer model
+- tcp-vs-udp — reliable vs fast delivery
+- websockets-basics — persistent two-way connections

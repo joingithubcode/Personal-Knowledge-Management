@@ -4,7 +4,7 @@ Map of the System-Design category in the knowledge section.
 
 ## Current note count
 
-0 notes.
+8 notes.
 
 ## Category map
 

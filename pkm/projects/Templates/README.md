@@ -16,7 +16,11 @@ project begins with the same structure.
 ## Folder Contents
 
 - One Markdown file per project template.
-- Each template registered in the repository INDEX.md.
+- meeting-notes-template.md — reusable meeting notes shape.
+- decision-log-template.md — reusable decision log shape.
+- retrospective-template.md — reusable retrospective shape.
+- roadmap-entry-template.md — reusable roadmap entry shape.
+- Each template registered in this category's INDEX.md and SUMMARY.md.
 
 ## When to use
 

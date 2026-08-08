@@ -50,4 +50,7 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- decision-log-template — reusable shape for project decision logs
+- meeting-notes-template — reusable shape for project meeting notes
+- retrospective-template — reusable shape for project retrospectives
+- roadmap-entry-template — reusable shape for roadmap entries

@@ -4,7 +4,7 @@ Map of the Cloud category in the knowledge section.
 
 ## Current note count
 
-0 notes.
+4 notes.
 
 ## Category map
 

@@ -50,4 +50,10 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- api-key-management — keeping credentials secret and revocable
+- common-web-vulnerabilities — recurring web attack patterns
+- encryption-basics — symmetric and asymmetric protection
+- gpl-license-basics — copyleft terms for code
+- jwt-authentication — signed self-contained tokens
+- oauth2-basics — authorized access without passwords
+- rbac-fundamentals — access through roles

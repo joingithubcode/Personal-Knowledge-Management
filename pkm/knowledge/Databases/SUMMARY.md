@@ -4,7 +4,7 @@ Map of the Databases category in the knowledge section.
 
 ## Current note count
 
-0 notes.
+10 notes.
 
 ## Category map
 

@@ -50,4 +50,8 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- concurrency-basics — making progress on many tasks
+- error-handling-patterns — planning for failure
+- functional-vs-oop — two programming styles
+- memory-management-basics — allocating and freeing memory
+- oop-fundamentals — objects, state, and behavior

@@ -4,7 +4,7 @@ Map of the Career category in the knowledge section.
 
 ## Current note count
 
-0 notes.
+2 notes.
 
 ## Category map
 

@@ -50,4 +50,5 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- mobile-app-lifecycle-basics — states an app moves through
+- native-vs-cross-platform — platform trade-offs

@@ -13,7 +13,7 @@ repeatedly, without recreating it each time.
 - Maintain one atomic note per reusable resource.
 - Record what the resource is and how to use it.
 - Keep resources stable and accurate.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link resources to the projects that use them.
 
 ## Boundaries

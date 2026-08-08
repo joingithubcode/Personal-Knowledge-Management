@@ -50,4 +50,14 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- client-server-model — how clients and servers exchange requests
+- cookies-vs-sessions — keeping state across requests
+- cors-basics — cross-origin browser permission
+- frontend-vs-backend — two sides of a web app
+- http-request-response-cycle — one full HTTP exchange
+- javascript-event-loop — single-threaded async handling
+- php-basics — server-side scripting language
+- rest-api-basics — HTTP API design conventions
+- seo-fundamentals — earning organic search visibility
+- web-application-architecture — layers of a web app
+- web-security-headers — HTTP headers that harden sites

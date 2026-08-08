@@ -50,4 +50,9 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- code-review-basics — reading changes before merge
+- design-patterns-overview — proven design solutions
+- solid-principles — five design principles
+- technical-debt — the cost of shortcuts
+- testing-pyramid-basics — balancing test layers
+- version-control-basics — tracking code history

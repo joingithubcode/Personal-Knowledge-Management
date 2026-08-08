@@ -13,7 +13,7 @@ start: goals, scope, and the rationale behind plans.
 - Maintain atomic notes per planning topic.
 - Record goals, scope, and approach clearly.
 - Preserve the reasoning behind each plan.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Hand planned projects to Active when they start.
 
 ## Boundaries

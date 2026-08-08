@@ -50,4 +50,7 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- backpropagation-basics — how networks learn weights
+- cnn-vs-rnn — grids vs sequences
+- neural-networks-basics — layers and learning
+- transformer-architecture — attention-powered models

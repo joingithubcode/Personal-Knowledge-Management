@@ -13,7 +13,7 @@ accurate enough to cite and reuse years later.
 - Maintain one atomic note per paper.
 - Record the claim, method, and finding accurately.
 - Note the source clearly for later citation.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link papers to reviews, comparisons, and questions.
 
 ## Boundaries

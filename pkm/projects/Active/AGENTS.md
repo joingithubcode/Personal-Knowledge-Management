@@ -13,7 +13,7 @@ kept current while the work is underway.
 - Maintain atomic notes per active project topic.
 - Record current context, decisions, and progress.
 - Keep notes in sync with the project's state.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Route completed work to Completed when it ends.
 
 ## Boundaries

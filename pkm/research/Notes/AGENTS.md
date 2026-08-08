@@ -13,7 +13,7 @@ until it settles into a more specific category.
 - Maintain one atomic note per research thread.
 - Record observations and reasoning accurately.
 - Promote settled material to its proper category.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link notes across the other research categories.
 
 ## Boundaries

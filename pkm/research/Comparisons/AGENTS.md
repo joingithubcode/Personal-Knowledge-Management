@@ -13,7 +13,7 @@ related approaches or findings.
 - Maintain one atomic note per comparison.
 - Compare on explicit, consistent criteria.
 - Record differences and trade-offs accurately.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link comparisons to their source notes.
 
 ## Boundaries

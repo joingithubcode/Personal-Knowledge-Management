@@ -13,7 +13,7 @@ themes, agreements, gaps, and open questions.
 - Maintain one atomic note per literature review.
 - Synthesize many papers into coherent findings.
 - Distinguish reported findings from personal conclusions.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link each review to the papers it covers.
 
 ## Boundaries

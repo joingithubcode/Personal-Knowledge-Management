@@ -49,4 +49,5 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- resume-best-practices — making a resume effective
+- technical-interview-preparation — preparing for technical rounds

@@ -13,7 +13,7 @@ how they score, and how to read their results.
 - Maintain one atomic note per benchmark.
 - Record the task, data, metrics, and caveats accurately.
 - Note how results are compared across studies.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link benchmarks to evaluations and experiments.
 
 ## Boundaries

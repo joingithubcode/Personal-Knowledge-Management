@@ -16,7 +16,8 @@ are not lost before they are assessed.
 ## Folder Contents
 
 - One atomic Markdown note per idea.
-- Each note registered in the repository INDEX.md.
+- ai-voice-saas-market-positioning.md — the AI Voice Platform's market positioning.
+- Each note registered in this category's INDEX.md and SUMMARY.md.
 
 ## When to use
 

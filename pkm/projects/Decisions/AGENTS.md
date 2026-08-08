@@ -13,7 +13,7 @@ rationale behind them, so choices stay explainable.
 - Maintain one atomic note per significant decision.
 - Record the options, choice, and rationale clearly.
 - Note when and by whom the decision was made.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link decisions to planning and meeting notes.
 
 ## Boundaries

@@ -63,6 +63,18 @@ creating or editing a note.
 3. Add your first note to the right folder.
 4. Register it in INDEX.md and SUMMARY.md.
 
+## Setup
+
+Enable the pre-commit validation gate after cloning:
+
+```sh
+bash pkm/scripts/install-hooks.sh
+```
+
+Run it once. It copies `pkm/scripts/hooks/pre-commit` into `.git/hooks/`
+and makes it executable, so `pkm/scripts/validate.py` runs before every
+commit and blocks the commit if any validation violations are found.
+
 ## Status
 
 Foundation stage: structure only. No knowledge documents exist yet.

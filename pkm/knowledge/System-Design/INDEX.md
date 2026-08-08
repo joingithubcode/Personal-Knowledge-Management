@@ -50,4 +50,11 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- api-gateway-basics — a single front door to services
+- caching-strategies — fast reads with fresh data
+- database-sharding — scaling data across databases
+- horizontal-vs-vertical-scaling — growing capacity two ways
+- load-balancing-basics — spreading traffic across servers
+- message-queues-basics — decoupling producers and consumers
+- monolith-vs-microservices — one app or many services
+- rate-limiting-basics — capping request traffic

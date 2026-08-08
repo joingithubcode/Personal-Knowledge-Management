@@ -48,4 +48,5 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- deep-work-principles — guarding focused effort
+- time-blocking-basics — scheduling tasks into blocks

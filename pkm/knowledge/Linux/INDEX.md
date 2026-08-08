@@ -50,4 +50,8 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- bash-scripting-basics — automating with shell scripts
+- linux-file-permissions — access control on files
+- package-managers-linux — installing and updating software
+- systemd-basics — services and boot management
+- wsl-basics — Linux on Windows

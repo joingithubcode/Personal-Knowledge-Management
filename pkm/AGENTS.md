@@ -74,16 +74,30 @@ software project, tool, or vendor, and equally readable by humans and AI.
 - Read validation.yaml before creating or editing a file.
 - Verify front matter, naming, line counts, and links.
 - Check that all wiki links resolve to existing notes.
-- Register new notes in INDEX.md and SUMMARY.md.
+- Register new notes in their category's INDEX.md and SUMMARY.md; update
+  the root INDEX.md per-category count.
 - Run validation checks before committing changes.
 
 ## Navigation rules
 
 - SUMMARY.md is the entry point; keep it accurate.
-- INDEX.md is the master index; keep every note listed.
+- INDEX.md is the index of indexes; keep each per-category count current.
 - Every folder has a README.md describing its contents.
 - Prefer wiki links over absolute paths.
 - Never link to files outside this repository.
+
+## Answering questions
+
+When the user asks any question, before answering:
+- Search pkm/SUMMARY.md for the repository map.
+- Check the relevant category README.md and INDEX.md.
+- Retrieve the full matching note(s), not just a snippet.
+- Answer strictly from what is found in the notes.
+- If the answer is not in the PKM, say so explicitly — do not guess,
+  do not use general knowledge or the internet to fill the gap.
+- If the PKM only partially answers the question, say what is
+  missing and answer only the covered part from the notes.
+- Cite which note(s) the answer came from.
 
 ## Recovery workflow
 

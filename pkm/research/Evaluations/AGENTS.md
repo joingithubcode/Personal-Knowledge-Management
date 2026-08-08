@@ -13,7 +13,7 @@ with the criteria and evidence behind each judgment.
 - Maintain one atomic note per evaluation.
 - State criteria, evidence, and judgment clearly.
 - Record the limits of each assessment.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Link evaluations to benchmarks and experiments.
 
 ## Boundaries

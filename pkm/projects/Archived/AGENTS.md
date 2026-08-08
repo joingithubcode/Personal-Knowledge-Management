@@ -13,7 +13,7 @@ kept readable without being kept current.
 - Maintain atomic notes per archived project topic.
 - Preserve the record accurately and completely.
 - Mark retired notes clearly as archived.
-- Register every note in the repository INDEX.md.
+- Register every note in this folder's own INDEX.md and SUMMARY.md; update the note count for this category in the root pkm/INDEX.md.
 - Route retired projects here from Active or Completed.
 
 ## Boundaries

@@ -50,4 +50,10 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- celery-redis-workers — background tasks via a broker
+- ci-cd-basics — automated build and delivery
+- containerization-vs-virtualization — two isolation models
+- docker-fundamentals — packaging apps as containers
+- environment-variables-management — config outside code
+- infrastructure-as-code-basics — infrastructure in files
+- observability-basics — logs, metrics, and traces

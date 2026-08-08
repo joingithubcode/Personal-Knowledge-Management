@@ -50,4 +50,7 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- calculus-for-ml-basics — derivatives and training
+- linear-algebra-for-ml — vectors and matrices for models
+- probability-basics — the math of uncertainty
+- statistics-for-data-science — drawing conclusions from data

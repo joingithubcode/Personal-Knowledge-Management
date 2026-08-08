@@ -50,4 +50,7 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- cdn-basics — caching content near users
+- cloud-service-models — IaaS, PaaS, SaaS, FaaS
+- cloud-vs-self-hosted — renting vs running infrastructure
+- s3-compatible-storage — object storage via a common API

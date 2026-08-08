@@ -50,4 +50,11 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- ai-agent-vs-chatbot — acting assistants with tool access
+- context-window-basics — the token limit of one request
+- embeddings-basics — text as vectors
+- fine-tuning-vs-prompting — adapting vs steering a model
+- hallucination-in-llms — confident false output
+- llm-vs-traditional-nlp — two eras of language processing
+- prompt-engineering-basics — shaping model instructions
+- what-is-rag — grounding answers in retrieved text

@@ -50,4 +50,8 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+- arrays-vs-linked-lists — contiguous vs chained sequences
+- graphs-basics — modeling relationships
+- hash-tables-basics — near-instant key lookups
+- stacks-vs-queues — LIFO and FIFO ordering
+- trees-basics — hierarchical structures
