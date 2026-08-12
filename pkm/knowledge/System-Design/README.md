@@ -17,6 +17,8 @@ the trade-offs behind design decisions.
 
 - One atomic Markdown note per topic.
 - Each note registered in the repository INDEX.md.
+- redis-vs-rabbitmq-as-broker — the trade-off of using Redis or RabbitMQ as
+  a task-queue broker.
 
 ## When to use
 

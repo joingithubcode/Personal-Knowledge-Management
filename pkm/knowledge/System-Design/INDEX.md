@@ -58,3 +58,4 @@ DOCUMENTATION-STANDARDS.md.
 - message-queues-basics — decoupling producers and consumers
 - monolith-vs-microservices — one app or many services
 - rate-limiting-basics — capping request traffic
+- redis-vs-rabbitmq-as-broker — Redis vs RabbitMQ as a broker for task queues
