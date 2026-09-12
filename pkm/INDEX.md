@@ -30,7 +30,7 @@ with its note count and a link to that category's own INDEX.md.
 - [Programming](knowledge/Programming/INDEX.md) — 5 notes
 - [Security](knowledge/Security/INDEX.md) — 7 notes
 - [Software-Engineering](knowledge/Software-Engineering/INDEX.md) — 6 notes
-- [System-Design](knowledge/System-Design/INDEX.md) — 8 notes
+- [System-Design](knowledge/System-Design/INDEX.md) — 9 notes
 - [Web-Development](knowledge/Web-Development/INDEX.md) — 11 notes
 
 ## research
