@@ -39,7 +39,7 @@ TEMPLATE_DIRS = (
 )
 
 WIKI_LINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
-EXTERNAL_URL_RE = re.compile(r"https?://[^\s)\]>\"']+", re.IGNORECASE)
+EXTERNAL_URL_RE = re.compile(r"https?://[^\s)\]>\"'`]+", re.IGNORECASE)
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PLACEHOLDER_RE = re.compile(r"TODO|lorem ipsum", re.IGNORECASE)
 
@@ -204,7 +204,7 @@ def check_line_count(path, limit, rule_name):
         )
 
 
-def check_links(path, body, root, skip_broken=False):
+def check_links(path, body, root, cfg=None, skip_broken=False):
     if not skip_broken:
         for target in WIKI_LINK_RE.findall(body):
             if not link_target_exists(root, target):
@@ -213,6 +213,14 @@ def check_links(path, body, root, skip_broken=False):
                     f"wiki link [[{target}]] does not resolve to any .md file",
                 )
     for url in EXTERNAL_URL_RE.findall(body):
+        if cfg:
+            allowed = cfg.get("links", {}).get("allowed_external_domains", [])
+            if allowed:
+                from urllib.parse import urlparse
+                parsed = urlparse(url)
+                domain = parsed.netloc or parsed.path.split("/")[0]
+                if any(allowed_domain in domain for allowed_domain in allowed):
+                    continue
         violation(
             section_of(path), rel(path), "links",
             f"external URL found: {url} (internal_only)",
@@ -259,7 +267,7 @@ def check_note(path, cfg, root):
     if notes_limit:
         check_line_count(path, notes_limit, "line_limits")
 
-    check_links(path, body, root, skip_broken=is_template_file(path))
+    check_links(path, body, root, cfg=cfg, skip_broken=is_template_file(path))
     check_placeholders(path, body)
 
 

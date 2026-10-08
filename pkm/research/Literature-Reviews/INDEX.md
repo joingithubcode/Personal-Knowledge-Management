@@ -50,4 +50,6 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+retraction-prediction-litreview — Literature Review - Retraction Prediction
+
+_Notes yet._

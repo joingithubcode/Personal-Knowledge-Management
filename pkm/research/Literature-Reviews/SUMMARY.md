@@ -4,7 +4,7 @@ Map of the Literature-Reviews category in the research section.
 
 ## Current note count
 
-0 notes.
+1 note.
 
 ## Category map
 

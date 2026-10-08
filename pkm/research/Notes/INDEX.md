@@ -50,4 +50,6 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+fletcher-2025-reading-notes — Reading Notes: Fletcher & Stevenson 2025
+
+_Notes yet._

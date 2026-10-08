@@ -99,6 +99,14 @@ When the user asks any question, before answering:
   missing and answer only the covered part from the notes.
 - Cite which note(s) the answer came from.
 
+## Available Skills
+
+- kb-frontmatter-validate — validates a note's YAML front matter against AGENTS.md/STANDARDS.md/validation.yaml; invoke before registering a new or edited note. (pkm/.opencode/skills/kb-frontmatter-validate/SKILL.md)
+- kb-cross-link-check — verifies every [[wiki-link]] resolves and is symmetric (back-linked); invoke after writing Related Notes or before a commit. (pkm/.opencode/skills/kb-cross-link-check/SKILL.md)
+- kb-registration-sync — registers a note in its category's README/INDEX/SUMMARY and updates the root INDEX count; invoke after a note is created, moved, renamed, or deleted. (pkm/.opencode/skills/kb-registration-sync/SKILL.md)
+
+Before creating, editing, or registering any note, an agent MUST check this list first and follow the matching skill's SKILL.md as the exact procedure for that step — not improvise. This is how AGENTS.md invokes skills: by explicit reference here, not automatic discovery.
+
 ## Recovery workflow
 
 - If a note is lost, restore from git history or the last backup.

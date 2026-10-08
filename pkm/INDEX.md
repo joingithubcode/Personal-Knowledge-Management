@@ -40,10 +40,10 @@ with its note count and a link to that category's own INDEX.md.
 - [Comparisons](research/Comparisons/INDEX.md) — 0 notes
 - [Evaluations](research/Evaluations/INDEX.md) — 0 notes
 - [Experiments](research/Experiments/INDEX.md) — 0 notes
-- [Literature-Reviews](research/Literature-Reviews/INDEX.md) — 0 notes
-- [Notes](research/Notes/INDEX.md) — 0 notes
+- [Literature-Reviews](research/Literature-Reviews/INDEX.md) — 1 note
+- [Notes](research/Notes/INDEX.md) — 1 note
 - [Open-Questions](research/Open-Questions/INDEX.md) — 0 notes
-- [Papers](research/Papers/INDEX.md) — 0 notes
+- [Papers](research/Papers/INDEX.md) — 1 note
 - [Surveys](research/Surveys/INDEX.md) — 0 notes
 
 ## projects

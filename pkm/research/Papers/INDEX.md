@@ -50,4 +50,6 @@ DOCUMENTATION-STANDARDS.md.
 
 ## Note registry
 
-_No notes yet._
+fletcher-2025-predicting-retracted-research — Fletcher & Stevenson 2025 - Predicting Retracted Research
+
+_Notes yet._

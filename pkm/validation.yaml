@@ -73,6 +73,9 @@ links:
   internal_only: true
   target_must_exist: true
   no_external: true
+  allowed_external_domains:
+    - doi.org
+    - ncbi.nlm.nih.gov
 
 content:
   allowed_files_only:
