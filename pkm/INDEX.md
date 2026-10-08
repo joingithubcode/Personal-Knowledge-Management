@@ -56,6 +56,7 @@ with its note count and a link to that category's own INDEX.md.
 - [Planning](projects/Planning/INDEX.md) — 0 notes
 - [Resources](projects/Resources/INDEX.md) — 1 note
 - [Retrospectives](projects/Retrospectives/INDEX.md) — 0 notes
+- [Retraction Prediction - Analysis](projects/retraction-prediction-analysis/INDEX.md) — 1 note
 - [Roadmaps](projects/Roadmaps/INDEX.md) — 0 notes
 - [Templates](projects/Templates/INDEX.md) — 4 notes
 
