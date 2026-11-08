@@ -8,7 +8,8 @@
       "git log*": "allow",
       "git diff*": "allow",
       "grep*": "allow",
-      "python3*validate.py*": "allow"
+      "python3 pkm/scripts/validate.py*": "allow",
+      "python3 scripts/validate.py*": "allow"
     }
   }
 }
