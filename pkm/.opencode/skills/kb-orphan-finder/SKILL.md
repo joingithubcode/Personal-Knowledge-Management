@@ -1,6 +1,7 @@
-| metadata | plugin | workflow | audience | trigger |
-|---|---|---|---|---|
-| | personal-knowledge-management | maintenance | agents | manual+chained |
+---
+name: kb-orphan-finder
+description: Finds notes with zero inbound [[wiki-links]] and suggests links to connect them during a vault health check.
+---
 
 ## Purpose
 

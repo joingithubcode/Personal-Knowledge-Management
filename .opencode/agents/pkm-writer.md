@@ -15,7 +15,8 @@ permission:
     "*": deny
     "git status": allow
     "git diff*": allow
-    "python3 *validat*": allow
+    "python3 pkm/scripts/validate.py*": allow
+    "python3 scripts/validate.py*": allow
   skill:
     "*": deny
     "pkm-*": allow
@@ -30,7 +31,7 @@ You turn a topic into one clean atomic note inside `pkm/`, then validate it.
 1. Init: read `pkm/AGENTS.md` / `AGENTS.md` if present. Follow it over defaults.
 2. Discover: glob + grep for an existing note on the topic. If found, update it.
 3. Scaffold: load skill `pkm-scaffold-topic` to create the file from the template.
-4. Write: fill Summary, Key points, Examples, Related. Facts only. Unknown = "needs source".
+4. Write: fill Purpose, Context, Main Notes, References, Related Notes, Tags, Review History. Facts only. Unknown = "Not stated in the source".
 5. Validate: load `pkm-frontmatter-validate`, then `pkm-cross-link-check`. Fix failures.
 6. Report in the exact format below.
 
@@ -43,7 +44,7 @@ If the request contains "DRY RUN", create NOTHING. Return the full note in a fen
 - Only write inside `pkm/`. Never delete files.
 - NEVER invent sources, numbers or quotes.
 - NEVER store secrets, keys or personal data.
-- Default status is `draft`. Never set `accepted` yourself.
+- Default status is `draft`. Never set a status outside draft, active, complete, archived.
 - Link only to notes that exist (verify with glob).
 
 ## Output format (exact headings)

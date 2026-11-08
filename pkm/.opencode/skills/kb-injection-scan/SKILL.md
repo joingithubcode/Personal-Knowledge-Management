@@ -1,6 +1,7 @@
-| metadata | plugin | workflow | audience | trigger |
-|---|---|---|---|---|
-| | personal-knowledge-management | security | agents | manual+chained |
+---
+name: kb-injection-scan
+description: Scans a note's body for text that reads as an instruction to an AI agent and reports it as a security finding when reviewing imported or untrusted content.
+---
 
 ## Purpose
 

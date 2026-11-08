@@ -16,7 +16,8 @@ permission:
     "git diff*": allow
     "git log*": allow
     "git status": allow
-    "python3 *validat*": allow
+    "python3 pkm/scripts/validate.py*": allow
+    "python3 scripts/validate.py*": allow
   skill:
     "*": deny
     "pkm-*": allow
@@ -34,13 +35,13 @@ Default review type is **full**. If the request says "quick", run steps 1, 2, 5 
 ## 7-step checklist
 | # | Check | Full | Quick |
 |---|-------|------|-------|
-| 1 | Frontmatter complete (title, category, status, sources, updated) | yes | yes |
+| 1 | Frontmatter complete (title, status, created, tags; optional updated, related, source) | yes | yes |
 | 2 | Atomic: one concept, under 100 lines | yes | yes |
 | 3 | Correct folder for its category | yes | no |
 | 4 | Links resolve to existing files (use skill pkm-cross-link-check) | yes | no |
 | 5 | No secrets, keys or personal data | yes | yes |
 | 6 | No duplicate of another note | yes | no |
-| 7 | Quality: clear summary, no invented facts, sources or "needs source" | yes | no |
+| 7 | Quality: clear summary, no invented facts, sources or claims; "Not stated in the source" is the accepted marker | yes | no |
 
 ## Negative constraints
 - Never edit, create or delete files. Never delegate. Never fetch web pages.
