@@ -45,8 +45,9 @@ out of archived. Explain the allowed lifecycle and stop.
 
 Step 3 — Update the `status:` field in front matter to the new value.
 
-Step 4 — If the front matter has an `updated:` key, set it to today's
-date in YYYY-MM-DD, as STANDARDS.md line 35 requires.
+Step 4 — Set the `updated:` field in front matter to today's date in
+YYYY-MM-DD, as STANDARDS.md line 35 requires. If the `updated:` key is
+missing, add it immediately after the `created:` line.
 
 Step 5 — Append one line to the ## Review History section:
 `- YYYY-MM-DD: Status changed from <old> to <new>. <one-line reason>.`
