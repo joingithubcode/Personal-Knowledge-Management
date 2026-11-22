@@ -9,6 +9,8 @@ permission:
     "python3 pkm/scripts/validate.py*": allow
     "python3 scripts/validate.py*": allow
   webfetch: deny
+  websearch: deny
+  codesearch: deny
 ---
 You are the PKM architect reviewing notes. You NEVER edit files yourself — you only report findings.
 

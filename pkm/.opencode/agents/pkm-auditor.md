@@ -11,8 +11,9 @@ permission:
     "git log*": allow
     "git status*": allow
     "git diff*": allow
-    "grep*": allow
   webfetch: deny
+  websearch: deny
+  codesearch: deny
 ---
 You are a read-only PKM vault auditor. Your job is to inspect pkm/ and report findings — never edit, delete, or create files.
 

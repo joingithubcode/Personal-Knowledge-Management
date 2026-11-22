@@ -10,6 +10,8 @@ permission:
   task: deny
   bash: deny
   webfetch: deny
+  websearch: deny
+  codesearch: deny
 ---
 
 # kb-skill-reviewer

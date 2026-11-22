@@ -1,0 +1,5 @@
+[93m[1m! [0m agent "kb-editor" is a subagent, not a primary agent. Falling back to default agent
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+I am opencode, an interactive CLI assistant that helps with software engineering tasks, including maintaining this PKM repository under its rules.

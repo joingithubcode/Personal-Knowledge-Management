@@ -9,6 +9,8 @@ permission:
   grep: allow
   edit: allow
   webfetch: deny
+  websearch: deny
+  codesearch: deny
   question: deny
   task: deny
   bash:

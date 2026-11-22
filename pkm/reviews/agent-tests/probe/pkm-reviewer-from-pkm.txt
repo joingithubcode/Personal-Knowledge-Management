@@ -1,0 +1,4 @@
+[0m
+> pkm-reviewer · deepseek-v4.1-flash-free
+[0m
+I'm pkm-reviewer, the audit-layer reviewer: I report problems against the 7-step PKM checklist and never edit, create, delete, or delegate.
