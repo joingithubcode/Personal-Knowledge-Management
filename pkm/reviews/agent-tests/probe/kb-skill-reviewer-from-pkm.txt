@@ -1,0 +1,4 @@
+[0m
+> kb-skill-reviewer · deepseek-v4.1-flash-free
+[0m
+I'm the kb-skill-reviewer: I audit this PKM's agents and skills and report issues only — I never edit.

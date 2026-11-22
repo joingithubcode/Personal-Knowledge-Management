@@ -1,0 +1,4 @@
+[0m
+> pkm-reviewer · deepseek-v4.1-flash-free
+[0m
+I'm pkm-reviewer, a senior auditor who checks PKM notes against the 7-step checklist and reports issues — I never edit, create, or delegate.

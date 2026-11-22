@@ -1,0 +1,29 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m$ [0mls -la .opencode/agent 2>/dev/null; ls -la .opencode 2>/dev/null
+total 48
+drwxr-xr-x  6 noor noor  4096 Oct 22 20:00 .
+drwxr-xr-x  6 noor noor  4096 Oct 22 20:00 ..
+-rw-r--r--  1 noor noor    63 Oct 18 18:21 .gitignore
+drwxr-xr-x  2 noor noor  4096 Oct 22 20:00 agents
+drwxr-xr-x  2 noor noor  4096 Oct 22 20:00 commands
+drwxr-xr-x 29 noor noor  4096 Oct 18 18:35 node_modules
+-rw-r--r--  1 noor noor 14634 Oct 18 18:35 package-lock.json
+-rw-r--r--  1 noor noor    65 Oct 18 18:35 package.json
+drwxr-xr-x 11 noor noor  4096 Nov  8 10:43 skills
+[0m
+[0m✱ [0mGlob "**/pkm-auditor*"[90m 0 matches[0m
+[0m
+[0m$ [0mls -la .opencode/agents
+total 24
+drwxr-xr-x 2 noor noor 4096 Oct 22 20:00 .
+drwxr-xr-x 6 noor noor 4096 Oct 22 20:00 ..
+-rw-r--r-- 1 noor noor 1730 Oct 22 20:00 pkm-architect.md
+-rw-r--r-- 1 noor noor 1569 Oct 22 20:00 pkm-proofreader.md
+-rw-r--r-- 1 noor noor 1875 Nov  8 10:25 pkm-reviewer.md
+-rw-r--r-- 1 noor noor 2026 Nov  8 10:25 pkm-writer.md
+[0m
+[0m✱ [0mGrep "pkm-auditor"[90m 29 matches[0m
+[0m→ [0mRead pkm/.opencode/agents/pkm-auditor.md
+I'm not `pkm-auditor` (that subagent isn't available in this session); its definition at `pkm/.opencode/agents/pkm-auditor.md:17` says: a read-only PKM vault auditor that runs `validate.py`, checks structure/links/governance, and reports findings without editing.

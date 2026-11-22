@@ -1,0 +1,25 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m$ [0mls -la .opencode 2>/dev/null; ls -la .opencode/agent .opencode/agents 2>/dev/null; cat opencode.json* 2>/dev/null
+total 48
+drwxr-xr-x  6 noor noor  4096 Oct 22 20:00 .
+drwxr-xr-x  6 noor noor  4096 Oct 22 20:00 ..
+-rw-r--r--  1 noor noor    63 Oct 18 18:21 .gitignore
+drwxr-xr-x  2 noor noor  4096 Oct 22 20:00 agents
+drwxr-xr-x  2 noor noor  4096 Oct 22 20:00 commands
+drwxr-xr-x 29 noor noor  4096 Oct 18 18:35 node_modules
+-rw-r--r--  1 noor noor 14634 Oct 18 18:35 package-lock.json
+-rw-r--r--  1 noor noor    65 Oct 18 18:35 package.json
+drwxr-xr-x 11 noor noor  4096 Nov  8 10:43 skills
+.opencode/agents:
+total 24
+drwxr-xr-x 2 noor noor 4096 Oct 22 20:00 .
+drwxr-xr-x 6 noor noor 4096 Oct 22 20:00 ..
+-rw-r--r-- 1 noor noor 1730 Oct 22 20:00 pkm-architect.md
+-rw-r--r-- 1 noor noor 1569 Oct 22 20:00 pkm-proofreader.md
+-rw-r--r-- 1 noor noor 1875 Nov  8 10:25 pkm-reviewer.md
+-rw-r--r-- 1 noor noor 2026 Nov  8 10:25 pkm-writer.md
+[0m
+[0m✱ [0mGlob "**/*agent*"[90m 3 matches[0m
+There is no `kb-editor` agent here — available agents are `pkm-architect`, `pkm-proofreader`, `pkm-reviewer`, and `pkm-writer`.

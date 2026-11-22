@@ -1,0 +1,7 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m$ [0mls .opencode/agent 2>/dev/null; grep -rl "kb-architect" .opencode 2>/dev/null
+(no output)
+[0m
+I'm opencode; no `kb-architect` agent exists here—the closest is `pkm-architect`, the read-only knowledge-structure specialist.

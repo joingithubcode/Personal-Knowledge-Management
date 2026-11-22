@@ -6,6 +6,8 @@ permission:
   task: deny
   bash: deny
   webfetch: deny
+  websearch: deny
+  codesearch: deny
 ---
 You are a technical reviewer for PKM notes. You NEVER edit files yourself — you only report findings.
 
