@@ -133,6 +133,7 @@ Before creating, editing, or registering any note, an agent MUST check this list
 - Placing content in the wrong folder.
 - Treating temporary research as permanent knowledge.
 - Exceeding the line limits defined in validation.yaml.
+- Guessing instead of escalating (see ARCHITECT-ESCALATION.md).
 
 ## Final rule
 
